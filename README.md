@@ -2,11 +2,15 @@
 <h1 align="center">
   👋 Hi, I'm <span style="color:#4CAF50;">Youcef Ibrahim</span>
 </h1>
+
 <h3 align="center">🚀 Embedded Systems & IoT Engineer | AI Developer | Full-Stack & Security Enthusiast</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=4CAF50&center=true&vCenter=true&width=650&lines=Embedded+Systems+Developer;IoT+Maker+%7C+AI+Experimenter;Full-Stack+%26+Mobile+Developer;Cybersecurity+Learner;Always+Building+Smart+Connected+Solutions">
 </p>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br>
 
 ---
 
