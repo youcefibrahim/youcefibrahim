@@ -26,11 +26,11 @@
 ## 🛠️ Tech Stack
 
 ### 🔹 Programming  
-`C` • `Python` • `JavaScript` • `Dart` • `Java` • `SQL` • `VHDL`
+`C` •`C++`• `Python` • `JavaScript` • `Dart` • `Java` • `SQL` • `VHDL`
 
 ### 🔹 Frameworks & Tools  
-`Flutter` • `React` • `Node.js` • `Firebase` • `FastAPI` • `LangChain`  
-`TensorFlow` • `Docker` • `VMware` • `pfSense` • `LabVIEW`
+`Android Studio` • `React` • `Node.js` • `Firebase` • `LangChain`  
+`TensorFlow` • `Docker` • `VMware`  • `LabVIEW`
 
 ### 🔹 Hardware & Embedded  
 `Arduino` • `ESP32` • `STM32` • `LoRa SX1278` • `Raspberry Pi` • `FPGA`
@@ -41,10 +41,10 @@
 
 ## 📫 Connect With Me  
 <p align="left">
-  <a href="mailto:bahaeddineammar@gmail.com"><img src="https://img.shields.io/badge/Email-4CAF50?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/baha-eddine-ammar-5aba14236/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/baha-eddine-ammar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://baha-eddine-ammar.github.io/baha1-web-app/"><img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=firefox&logoColor=white"></a>
+  <a href="mailto:youcefibrahimm@gmail.com"><img src="https://img.shields.io/badge/Email-4CAF50?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/youcef-ibrahim-855115392/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  
+ 
 </p>
 
 ---
